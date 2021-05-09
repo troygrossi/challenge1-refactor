@@ -3,7 +3,7 @@
 Module 1 challenge, refactor code, On-the-job ticket
 
 #Link to Website
-https://troygrossi.github.io/Challenge1/
+https://troygrossi.github.io/challenge1-refactor/
 
 #
 
