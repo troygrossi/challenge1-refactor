@@ -13,3 +13,4 @@ https://troygrossi.github.io/challenge1-refactor/
 - Added alt attributes
 - Added heading attributes
 - Added descriptive title
+- Reformatted and commented CSS
